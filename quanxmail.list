@@ -1,9 +1,7 @@
 # NAME: Mail
-# AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-25 02:44:54.677923
-# HOST: 7
-# TOTAL: 7
+# AUTHOR: Jerry
+# HOST: 15
+# TOTAL: 15
 HOST,imap-mail.outlook.com,Mail
 HOST,imap.gmail.com,Mail
 HOST,outlook.office365.com,Mail
@@ -17,3 +15,5 @@ HOST,pop.mail.me.com,Mail
 HOST,imap.mail.com,Mail
 HOST,smtp.mail.com,Mail
 HOST,pop.mail.com,Mail
+DOMAIN-SUFFIX,mail.icloud.com.cn,Mail
+DOMAIN-SUFFIX,mail.icloud.com.cn,Mail
