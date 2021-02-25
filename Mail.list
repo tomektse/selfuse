@@ -1,0 +1,15 @@
+# NAME: ×ÔÊÕ¼¯Mail list
+# AUTHOR: Jerry
+HOST,imap-mail.outlook.com,Mail
+HOST,imap.gmail.com,Mail
+HOST,outlook.office365.com,Mail
+HOST,pop.gmail.com,Mail
+HOST,smtp-mail.outlook.com,Mail
+HOST,smtp.gmail.com,Mail
+HOST,smtp.office365.com,Mail
+HOST,imap.mail.me.com,Mail
+HOST,smtp.mail.me.com,Mail
+HOST,pop.mail.me.com,Mail
+HOST,imap.mail.com,Mail
+HOST,smtp.mail.com,Mail
+HOST,pop.mail.com,Mail
