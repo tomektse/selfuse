@@ -16,4 +16,4 @@ HOST,imap.mail.com,Mail
 HOST,smtp.mail.com,Mail
 HOST,pop.mail.com,Mail
 DOMAIN-SUFFIX,mail.icloud.com.cn,Mail
-DOMAIN-SUFFIX,mail.icloud.com.cn,Mail
+DOMAIN-SUFFIX,mail.me.com,Mail
