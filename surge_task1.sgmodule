@@ -32,4 +32,4 @@
 
 
 [MITM]
-hostname = %APPEND% zhiyou.smzdm.com,m.client.10010.com,api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,manhattan.webapp.xiaojukeji.com,pay.diditaxi.com.cn,user-api-prd-mx.wandafilm.com,cms-activity-api-prd-mx.wandafilm.com,h5.ele.me,club.yili.com
+hostname = %APPEND% zhiyou.smzdm.com,m.client.10010.com,api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,manhattan.webapp.xiaojukeji.com,pay.diditaxi.com.cn,user-api-prd-mx.wandafilm.com,cms-activity-api-prd-mx.wandafilm.com,h5.ele.me,club.yili.com,wq.jd.com, m.jingxi.com
