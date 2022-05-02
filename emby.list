@@ -1,0 +1,63 @@
+# > NAME: Emby
+# > UPDATED: 2022-05-03
+
+# > Emby
+USER-AGENT,Emby*
+DOMAIN-KEYWORD,emby
+
+# > Haochi Emby
+DOMAIN,public.kyarucloud.moe
+DOMAIN,prpr.kyarucloud.moe
+
+# > 卷毛鼠Emby
+DOMAIN,cf.jmsooo.com
+DOMAIN,sg1.jmsooo.com
+DOMAIN,sg2.jmsooo.com
+DOMAIN,usa1.jmsooo.com
+DOMAIN,usa2.jmsooo.com
+
+# > Misty Emby
+DOMAIN,aaa.ax
+DOMAIN,us.aaa.ax
+DOMAIN,jp.aaa.ax
+
+# > 终点站Emby
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub1cm1.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub2cm1.emby.wtf
+DOMAIN,pub3.emby.wtf
+DOMAIN,pub3cm1.emby.wtf
+
+# > 卡戎Emby
+DOMAIN,play.charontv.com
+DOMAIN,597788103-54f490605ef45aeb.edge-1.charontv.com
+
+# > 流媒体emby-Otaku体验服
+DOMAIN,emby.otakudrive.life
+DOMAIN,emby2.otakudrive.life
+
+# > MisakaF emby
+DOMAIN,emby.misakaf.xyz
+DOMAIN,embygy.misakaf.xyz
+DOMAIN,embyaz.misakaf.xyz
+
+# > 流媒体pornemby服务器
+DOMAIN,pornemby.club
+
+# > 流媒体Odyssey服务器
+DOMAIN,cf.odysseyplus.site
+DOMAIN,sg.odysseyplus.site
+DOMAIN,jp.odysseyplus.site
+DOMAIN,ru.odysseyplus.site 
+DOMAIN,us.odysseyplus.site
+DOMAIN,kr.odysseyplus.site
+
+# > 普拉斯emby
+DOMAIN,emby.prprcloud.com
+DOMAIN,emby.plusmedia.site
+DOMAIN,emby-cf.plusmedia.site 
+DOMAIN,emby.xeton.dev
+DOMAIN,jellyfin.xeton.dev
+DOMAIN,movie.xeton.dev
+DOMAIN,servers.xeton.dev
