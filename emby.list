@@ -38,9 +38,10 @@ DOMAIN,emby.otakudrive.life
 DOMAIN,emby2.otakudrive.life
 
 # > MisakaF emby
-DOMAIN,emby.misakaf.xyz
-DOMAIN,embygy.misakaf.xyz
-DOMAIN,embyaz.misakaf.xyz
+DOMAIN,emby.misakaf.org
+DOMAIN,embygy.misakaf.org
+DOMAIN,embyaz.misakaf.org
+DOMAIN,emby.misakaf.org
 
 # > 流媒体pornemby服务器
 DOMAIN,pornemby.club
