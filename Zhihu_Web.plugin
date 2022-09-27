@@ -6,7 +6,7 @@
 
 [Rewrite]
 # 重写到桌面版
-^https:\/\/www\.zhihu\.com\/(question|topic) header-replace User-Agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36"
+^https:\/\/www\.zhihu\.com\/(question|topic) header-replace User-Agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
 
 # 去掉知乎跳转第三方网站的中间页面
 ^https?:\/\/link\.zhihu\.com/\?target=(https?)%3A//(.*) $1://$2 307
@@ -17,8 +17,8 @@
 
 [Script]
 # 注入 CSS 进行优化
-http-response ^https:\/\/www\.zhihu\.com\/question script-path=https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihux.user.js, requires-body=true, timeout=10, tag=知乎,enabled=true
-http-response ^https:\/\/www\.zhihu\.com\/topic script-path=https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihux.user.js, requires-body=true, timeout=10, tag=知乎,enabled=true
+http-response ^https:\/\/www\.zhihu\.com\/question script-path=https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihux.user.js, requires-body=true, enabled=true
+http-response ^https:\/\/www\.zhihu\.com\/topic script-path=https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihux.user.js, requires-body=true, enabled=true
 
 [MITM]
 hostname = oia.zhihu.com, link.zhihu.com, www.zhihu.com
