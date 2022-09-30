@@ -1,5 +1,5 @@
 # > NAME: Emby
-# > UPDATED: 2022-05-03
+# > UPDATED: 2022-09-30
 
 # > Emby
 USER-AGENT,Emby*
@@ -11,6 +11,7 @@ DOMAIN,prpr.kyarucloud.moe
 
 # > 卷毛鼠Emby
 DOMAIN,cf.jmsooo.com
+DOMAIN,ha.jmsooo.com
 DOMAIN,sg1.jmsooo.com
 DOMAIN,sg2.jmsooo.com
 DOMAIN,usa1.jmsooo.com
@@ -33,6 +34,7 @@ DOMAIN,pub3cm1.emby.wtf
 DOMAIN,play.charontv.com
 DOMAIN,597788103-54f490605ef45aeb.edge-1.charontv.com
 DOMAIN,5.180.76.4
+DOMAIN,202.8.9.69
 
 # > 流媒体emby-Otaku体验服
 DOMAIN,emby.otakudrive.life
@@ -52,6 +54,7 @@ DOMAIN,pornemby.club
 DOMAIN,cf.odysseyplus.site
 DOMAIN,sg.odysseyplus.site
 DOMAIN,jp.odysseyplus.site
+DOMAIN,jp2.odysseyplus.site
 DOMAIN,ru.odysseyplus.site
 DOMAIN,us.odysseyplus.site
 DOMAIN,kr.odysseyplus.site
