@@ -6,7 +6,7 @@
 
 [Rewrite]
 # 重写到桌面版
-^https:\/\/www\.zhihu\.com\/(question|topic) header-replace User-Agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
+^https:\/\/www\.zhihu\.com\/ header-replace User-Agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36
 
 # 去掉知乎跳转第三方网站的中间页面
 ^https?:\/\/link\.zhihu\.com/\?target=(https?)%3A//(.*) $1://$2 307
