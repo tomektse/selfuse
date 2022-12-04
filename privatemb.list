@@ -1,5 +1,5 @@
 # > NAME: Emby
-# > UPDATED: 2022-09-30
+# > UPDATED: 2022-12-04
 
 # > Emby
 USER-AGENT,Emby*
@@ -50,7 +50,7 @@ DOMAIN,embyaz.misakaf.org
 # > 流媒体pornemby服务器
 DOMAIN,pornemby.club
 
-# > 
+# > Ody
 DOMAIN,cf.odysseyplus.site
 DOMAIN,sg.odysseyplus.site
 DOMAIN,jp.odysseyplus.site
@@ -67,3 +67,8 @@ DOMAIN,emby.xeton.dev
 DOMAIN,jellyfin.xeton.dev
 DOMAIN,movie.xeton.dev
 DOMAIN,servers.xeton.dev
+
+# > nebula emby
+DOMAIN,direct.nebula-emby.com/
+
+
