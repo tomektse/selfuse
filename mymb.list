@@ -1,5 +1,5 @@
 # > NAME: Emby
-# > UPDATED: 2022-12-08
+# > UPDATED: 2022-12-30
 
 # > Emby
 USER-AGENT,Emby*
@@ -43,6 +43,7 @@ DOMAIN,emby2.otakudrive.life
 
 # > MisakaF emby
 DOMAIN,cf.misakaf.org
+DOMAIN,he.misakaf.org
 DOMAIN,4837.misakaf.org
 DOMAIN,emby.misakaf.org
 DOMAIN,embygy.misakaf.org
@@ -72,4 +73,7 @@ DOMAIN,servers.xeton.dev
 # > nebula emby
 DOMAIN,direct.nebula-emby.com
 
+# > Cabbage's emby
+DOMAIN,emby.starrism.tk
+DOMAIN,emby.cf.starrism.tk
 
