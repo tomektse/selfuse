@@ -1,7 +1,5 @@
 # NAME: Mail
-# AUTHOR: Jerry
-# DOMAIN: 20
-# TOTAL: 20
+
 DOMAIN,imap-mail.outlook.com
 DOMAIN,imap.gmail.com
 DOMAIN,outlook.office365.com
@@ -24,3 +22,4 @@ DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,readdle.com
 DOMAIN-SUFFIX,smartmailcloud.com
+
