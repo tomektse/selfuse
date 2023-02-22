@@ -1,9 +1,9 @@
 # > NAME: Emby
-# > UPDATED: 2022-12-30
+# > UPDATED: 2023-02-22
 
 # > Emby
 USER-AGENT,Emby*
-DOMAIN-KEYWORD,emby
+PROCESS-NAME,com.mb.android
 
 # > Haochi Emby
 DOMAIN,public.kyarucloud.moe
