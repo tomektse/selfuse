@@ -18,12 +18,13 @@ DOMAIN,usa1.jmsooo.com
 DOMAIN,usa2.jmsooo.com
 
 # > Misty Emby
-DOMAIN,misty.ltd
+DOMAIN-SUFFIX,misty.ltd
 DOMAIN,aaa.ax
 DOMAIN,us.aaa.ax
 DOMAIN,jp.aaa.ax
 
 # > 终点站Emby
+DOMAIN-SUFFIX,emby.wtf
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub1cm1.emby.wtf
 DOMAIN,pub2.emby.wtf
@@ -32,7 +33,7 @@ DOMAIN,pub3.emby.wtf
 DOMAIN,pub3cm1.emby.wtf
 
 # > 卡戎Emby
-DOMAIN,play.charontv.com
+DOMAIN-SUFFIX,play.charontv.com
 DOMAIN,597788103-54f490605ef45aeb.edge-1.charontv.com
 DOMAIN,5.180.76.4
 DOMAIN,202.8.9.69
@@ -42,7 +43,8 @@ DOMAIN,emby.otakudrive.life
 DOMAIN,emby2.otakudrive.life
 
 # > MisakaF emby
-DOMAIN,cf.misakaf.org
+DOMAIN-SUFFIX,cf.misakaf.org
+DOMAIN-SUFFIX,cdn.misakaf.org
 DOMAIN,he.misakaf.org
 DOMAIN,4837.misakaf.org
 DOMAIN,emby.misakaf.org
