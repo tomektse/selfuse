@@ -1,79 +1,79 @@
 # > NAME: Emby
-# > UPDATED: 2023-04-21
+# > UPDATED: 2023-04-26
 
 # > Emby
 USER-AGENT,Emby*
 PROCESS-NAME,com.mb.android
 
 # > Haochi Emby
-DOMAIN,public.kyarucloud.moe
-DOMAIN,prpr.kyarucloud.moe
+DOMAIN-SUFFIX,public.kyarucloud.moe
+DOMAIN-SUFFIX,prpr.kyarucloud.moe
 
 # > 卷毛鼠Emby
-DOMAIN,cf.jmsooo.com
-DOMAIN,ha.jmsooo.com
-DOMAIN,sg1.jmsooo.com
-DOMAIN,sg2.jmsooo.com
-DOMAIN,usa1.jmsooo.com
-DOMAIN,usa2.jmsooo.com
+DOMAIN-SUFFIX,cf.jmsooo.com
+DOMAIN-SUFFIX,ha.jmsooo.com
+DOMAIN-SUFFIX,sg1.jmsooo.com
+DOMAIN-SUFFIX,sg2.jmsooo.com
+DOMAIN-SUFFIX,usa1.jmsooo.com
+DOMAIN-SUFFIX,usa2.jmsooo.com
 
 # > Misty Emby
 DOMAIN-SUFFIX,misty.ltd
-DOMAIN,aaa.ax
-DOMAIN,us.aaa.ax
-DOMAIN,jp.aaa.ax
+DOMAIN-SUFFIX,aaa.ax
+DOMAIN-SUFFIX,us.aaa.ax
+DOMAIN-SUFFIX,jp.aaa.ax
 
 # > 终点站Emby
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub1cm1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub2cm1.emby.wtf
-DOMAIN,pub3.emby.wtf
-DOMAIN,pub3cm1.emby.wtf
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub1cm1.emby.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub2cm1.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,pub3cm1.emby.wtf
 
 # > 卡戎Emby
 DOMAIN-SUFFIX,play.charontv.com
-DOMAIN,597788103-54f490605ef45aeb.edge-1.charontv.com
-DOMAIN,5.180.76.4
-DOMAIN,202.8.9.69
+DOMAIN-SUFFIX,597788103-54f490605ef45aeb.edge-1.charontv.com
+DOMAIN-SUFFIX,5.180.76.4
+DOMAIN-SUFFIX,202.8.9.69
 
 # > MisakaF emby
 DOMAIN-SUFFIX,cf.misakaf.org
 DOMAIN-SUFFIX,cdn.misakaf.org
-DOMAIN,he.misakaf.org
-DOMAIN,4837.misakaf.org
-DOMAIN,emby.misakaf.org
-DOMAIN,embygy.misakaf.org
-DOMAIN,embyaz.misakaf.org
+DOMAIN-SUFFIX,he.misakaf.org
+DOMAIN-SUFFIX,4837.misakaf.org
+DOMAIN-SUFFIX,emby.misakaf.org
+DOMAIN-SUFFIX,embygy.misakaf.org
+DOMAIN-SUFFIX,embyaz.misakaf.org
 
 # > 流媒体pornemby服务器
-DOMAIN,pornemby.club
+DOMAIN-SUFFIX,pornemby.club
 
 # > Ody
-DOMAIN,cf.odysseyplus.site
-DOMAIN,sg.odysseyplus.site
-DOMAIN,jp.odysseyplus.site
-DOMAIN,jp2.odysseyplus.site
-DOMAIN,ru.odysseyplus.site
-DOMAIN,us.odysseyplus.site
-DOMAIN,kr.odysseyplus.site
+DOMAIN-SUFFIX,cf.odysseyplus.site
+DOMAIN-SUFFIX,sg.odysseyplus.site
+DOMAIN-SUFFIX,jp.odysseyplus.site
+DOMAIN-SUFFIX,jp2.odysseyplus.site
+DOMAIN-SUFFIX,ru.odysseyplus.site
+DOMAIN-SUFFIX,us.odysseyplus.site
+DOMAIN-SUFFIX,kr.odysseyplus.site
 
 # > 普拉斯emby
-DOMAIN,emby.prprcloud.com
-DOMAIN,emby.plusmedia.site
-DOMAIN,emby-cf.plusmedia.site 
-DOMAIN,emby.xeton.dev
-DOMAIN,jellyfin.xeton.dev
-DOMAIN,movie.xeton.dev
-DOMAIN,servers.xeton.dev
+DOMAIN-SUFFIX,emby.prprcloud.com
+DOMAIN-SUFFIX,emby.plusmedia.site
+DOMAIN-SUFFIX,emby-cf.plusmedia.site 
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,servers.xeton.dev
 
 # > nebula emby
-DOMAIN,direct.nebula-emby.com
+DOMAIN-SUFFIX,direct.nebula-emby.com
 
 # > Bgk
-DOMAIN,emby.pro
+DOMAIN-SUFFIX,emby.pro
 
 # > judog
-DOMAIN,ju.dog
+DOMAIN-SUFFIX,ju.dog
 
