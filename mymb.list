@@ -5,10 +5,6 @@
 USER-AGENT,Emby*
 PROCESS-NAME,com.mb.android
 
-# > Haochi Emby
-DOMAIN-SUFFIX,public.kyarucloud.moe
-DOMAIN-SUFFIX,prpr.kyarucloud.moe
-
 # > 卷毛鼠Emby
 DOMAIN-SUFFIX,cf.jmsooo.com
 DOMAIN-SUFFIX,ha.jmsooo.com
@@ -59,15 +55,6 @@ DOMAIN-SUFFIX,ru.odysseyplus.site
 DOMAIN-SUFFIX,us.odysseyplus.site
 DOMAIN-SUFFIX,kr.odysseyplus.site
 
-# > 普拉斯emby
-DOMAIN-SUFFIX,emby.prprcloud.com
-DOMAIN-SUFFIX,emby.plusmedia.site
-DOMAIN-SUFFIX,emby-cf.plusmedia.site 
-DOMAIN-SUFFIX,emby.xeton.dev
-DOMAIN-SUFFIX,jellyfin.xeton.dev
-DOMAIN-SUFFIX,movie.xeton.dev
-DOMAIN-SUFFIX,servers.xeton.dev
-
 # > nebula emby
 DOMAIN-SUFFIX,direct.nebula-emby.com
 
@@ -79,4 +66,7 @@ DOMAIN-SUFFIX,ju.dog
 
 # > CC
 DOMAIN-SUFFIX,cc.ccemby.tk
+
+# > Singularity
+DOMAIN-SUFFIX,singularity.deja-vu.beauty
 
