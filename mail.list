@@ -1,6 +1,6 @@
 # NAME: Mail
 
-DOMAIN-KEYWORD,imap
+DOMAIN-KEYWORD,imaps
 DOMAIN-KEYWORD,smtp
 DOMAIN,imap.mail.com
 DOMAIN,smtp.mail.com
