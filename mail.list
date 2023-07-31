@@ -1,5 +1,7 @@
 # NAME: Mail
 
+DOMAIN-KEYWORD,imap
+DOMAIN-KEYWORD,smtp
 DOMAIN,imap.mail.com
 DOMAIN,smtp.mail.com
 DOMAIN,pop.mail.com
