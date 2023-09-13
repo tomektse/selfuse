@@ -2,6 +2,7 @@
 # > UPDATED: 2023-04-26
 
 # > Emby
+USER-AGENT,Emby*
 PROCESS-NAME,com.mb.android
 
 # > 卷毛鼠Emby
