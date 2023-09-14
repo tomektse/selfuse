@@ -1,72 +1,12 @@
-# > NAME: Emby
-# > UPDATED: 2023-04-26
-
-# > Emby
+# Emby
 USER-AGENT,Emby*
 PROCESS-NAME,com.mb.android
-
-# > 卷毛鼠Emby
-DOMAIN-SUFFIX,cf.jmsooo.com
-DOMAIN-SUFFIX,ha.jmsooo.com
-DOMAIN-SUFFIX,sg1.jmsooo.com
-DOMAIN-SUFFIX,sg2.jmsooo.com
-DOMAIN-SUFFIX,usa1.jmsooo.com
-DOMAIN-SUFFIX,usa2.jmsooo.com
-
-# > Misty Emby
-DOMAIN-SUFFIX,misty.ltd
-DOMAIN-SUFFIX,aaa.ax
-DOMAIN-SUFFIX,us.aaa.ax
-DOMAIN-SUFFIX,jp.aaa.ax
-
-# > 终点站Emby
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,pub1.emby.wtf
-DOMAIN-SUFFIX,pub1cm1.emby.wtf
-DOMAIN-SUFFIX,pub2.emby.wtf
-DOMAIN-SUFFIX,pub2cm1.emby.wtf
-DOMAIN-SUFFIX,pub3.emby.wtf
-DOMAIN-SUFFIX,pub3cm1.emby.wtf
-
-# > 卡戎Emby
-DOMAIN-SUFFIX,play.charontv.com
-DOMAIN-SUFFIX,597788103-54f490605ef45aeb.edge-1.charontv.com
-DOMAIN-SUFFIX,5.180.76.4
-DOMAIN-SUFFIX,202.8.9.69
-
-# > MisakaF emby
-DOMAIN-SUFFIX,cf.misakaf.org
-DOMAIN-SUFFIX,cdn.misakaf.org
-DOMAIN-SUFFIX,he.misakaf.org
-DOMAIN-SUFFIX,4837.misakaf.org
-DOMAIN-SUFFIX,emby.misakaf.org
-DOMAIN-SUFFIX,embygy.misakaf.org
-DOMAIN-SUFFIX,embyaz.misakaf.org
-
-# > 流媒体pornemby服务器
-DOMAIN-SUFFIX,pornemby.club
-
-# > Ody
-DOMAIN-SUFFIX,cf.odysseyplus.site
-DOMAIN-SUFFIX,sg.odysseyplus.site
-DOMAIN-SUFFIX,jp.odysseyplus.site
-DOMAIN-SUFFIX,jp2.odysseyplus.site
-DOMAIN-SUFFIX,ru.odysseyplus.site
-DOMAIN-SUFFIX,us.odysseyplus.site
-DOMAIN-SUFFIX,kr.odysseyplus.site
-
-# > nebula emby
-DOMAIN-SUFFIX,direct.nebula-emby.com
-
-# > Bgk
-DOMAIN-SUFFIX,emby.pro
-
-# > judog
+DOMAIN-KEYWORD,odysseyplus
 DOMAIN-SUFFIX,ju.dog
-
-# > CC
-DOMAIN-SUFFIX,cc.ccemby.tk
-
-# > Singularity
-DOMAIN-SUFFIX,singularity.deja-vu.beauty
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,play.charontv.com
+DOMAIN-SUFFIX,cf.jmsooo.com
+DOMAIN-SUFFIX,emby.pro
+DOMAIN-SUFFIX,eine.bgka.me
 
