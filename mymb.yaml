@@ -7,5 +7,7 @@ payload:
   - DOMAIN-SUFFIX,cf.jmsooo.com
   - DOMAIN-SUFFIX,emby.pro
   - DOMAIN-SUFFIX,eine.bgka.me
+  - DOMAIN-SUFFIX,t.emby.pro
+  - DOMAIN-SUFFIX,drei.bgka.me
   - PROCESS-NAME,com.mb.android
   
